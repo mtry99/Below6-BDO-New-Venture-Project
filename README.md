@@ -1,2 +1,2 @@
 # Below6-BDO-New-Venture-Project
-[embed]https://github.com/mtry99/Below6-BDO-New-Venture-Project/blob/main/Presentation.pdf[/embed]
+<a href="[https://my.github.io/files/paper.pdf](https://github.com/mtry99/Below6-BDO-New-Venture-Project/blob/main/Presentation.pdf)">mypdf</a>
